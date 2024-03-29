@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "sreenu",
+      "timestamp": "2024-03-29T17:36:20Z"
+    },
+    "lastModificationSignature": "8a60a00bac00bf594b73617d395059650e06001cde29f393611a1fb38316e4f7"
+  }
+}

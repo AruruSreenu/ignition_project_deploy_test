@@ -1,0 +1,16 @@
+{
+  "scope": "C",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "sreenu",
+      "timestamp": "2024-03-29T17:34:54Z"
+    },
+    "lastModificationSignature": "6ed7b6c69b621615fcba7f0e2f27054b82b68154055a455cc0a3979160bf052d"
+  }
+}

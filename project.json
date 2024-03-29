@@ -1,0 +1,6 @@
+{
+  "title": "igniton_test_project",
+  "description": "This is test ignition project for deployment",
+  "enabled": true,
+  "inheritable": false
+}
